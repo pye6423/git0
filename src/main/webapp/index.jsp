@@ -16,6 +16,6 @@
 <title>Home</title>
 </head>
 <body>
-	1. git eclipse~
+	수정
 </body>
 </html>
